@@ -1,0 +1,13 @@
+body{
+  background-color: #72bcff;
+  font-family: Arial, sans-serif;
+  color:#f00040;
+}
+.kartu_nama{
+  width: 300px;
+  margin: 50px auto;
+  pading: 30px;
+  backround-color: #f0ffcc;
+  border-radius: 30px;
+  box-shadow:0 4px 10px rgba(0, 0, 0, 0.2)
+}
