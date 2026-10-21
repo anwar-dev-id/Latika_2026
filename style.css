@@ -7,7 +7,7 @@ body{
   width: 350px;
   margin: 50px auto;
   pading: 30px;
-  backround-color: #f0ffcc;
+  backround-color: white;
   border-radius: 30px; 
   box-shadow:0 4px 10px rgba(0, 0, 0, 0.2)
 }
