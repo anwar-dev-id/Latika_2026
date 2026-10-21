@@ -11,3 +11,10 @@ body{
   border-radius: 30px;
   box-shadow:0 4px 10px rgba(0, 0, 0, 0.2)
 }
+.kartu-profil img{
+  width: 150px;
+  border-radius: 50px;
+}
+.kartu-profil{
+  text-align: center;
+}
